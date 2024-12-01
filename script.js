@@ -8,6 +8,7 @@ document.addEventListener("DOMContentLoaded", function() {
       if (taskText === "") {
         alert("Please enter a task.");
         return;
+        classlist.add;
       }
   
       const li = document.createElement("li");
